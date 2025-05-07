@@ -26,4 +26,4 @@ The goal is to simulate a real-world store inventory and order system using only
 
 -----
 ## 🗺️ ERD (Entity Relationship Diagram)
-![ERD Screenshot](images/becky beauty botique.jpg)
+![ERD Screenshot](becky beauty botique.jpg)
